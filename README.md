@@ -1,3 +1,4 @@
+![NM-SA Licence Logo](https://i.imgur.com/zTVh7Ei.png) 
 # NM-SA (NoModify Source-Available) Licence
 
 A strict, transparent, source-available legal framework designed for independent developers who want complete code transparency without sacrificing control over their project's distribution. 
