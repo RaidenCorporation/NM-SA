@@ -1,6 +1,6 @@
 # `[Utility / Brand Name]` NM SA (NoModify Source-Available) Licence
 
-Copyright (c) 2026 `[Licensor Name / Company Name]`. All rights reserved.
+Copyright (c) `[Year]` `[Licensor Name / Company Name]`. All rights reserved.
 
 **1. PURPOSE AND MALWARE TRANSPARENCY**
 The source code of the licensed software is made publicly viewable to ensure complete transparency, allow security auditing, and prove the absolute integrity and safety of the software (confirming the absence of malicious code).
