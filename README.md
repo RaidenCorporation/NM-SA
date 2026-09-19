@@ -1,4 +1,12 @@
 ![NM-SA Licence Logo](https://i.imgur.com/zTVh7Ei.png) 
+
+
+[![NoModify Badge](https://img.shields.io/badge/NoModify_Licence-FF7F7F?style=for-the-badge)](RaidenCorporation/NM-SA-licence)
+[![Free Licence Badge](https://img.shields.io/badge/Free_Licence-A3F635?style=for-the-badge)](RaidenCorporation/NM-SA-licence)
+[![Source-Available Badge](https://img.shields.io/badge/Source_Available_Licence-39A7FF?style=for-the-badge)](RaidenCorporation/NM-SA-licence)
+[![Official Repo Badge](https://img.shields.io/badge/Official_Repo-B39DDB?style=for-the-badge)](RaidenCorporation/NM-SA-licence)
+
+
 # NM-SA (NoModify Source-Available) Licence
 
 A strict, transparent, source-available legal framework designed for independent developers who want complete code transparency without sacrificing control over their project's distribution. 
