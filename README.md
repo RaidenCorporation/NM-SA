@@ -34,10 +34,12 @@ To use the NM-SA licence for your own software project, follow these simple step
 1. Copy the raw text from the [template file](https://github.com/RaidenCorporation/NM-SA-licence/blob/main/LICENCE-TEMPLATE.md?plain=1) in this repository.
 2. Create a new file named `LICENCE.md` (or `LICENSE.md`) in the root directory of your project.
 3. Paste the text and fill in the bracketed placeholders at the top:
-   ```markdown
-   Copyright (c) [Year] [Your Name / Company Name]. All rights reserved.
-   ```
-
+```markdown
+Copyright (c) [Year] [Your Name / Company Name]. All rights reserved.
+```
+```markdown
+# `[Utility / Brand Name]` NM SA (NoModify Source-Available) Licence
+```
 ---
 
 ## Why Choose NM-SA?
