@@ -31,8 +31,8 @@ The NM-SA licence ensures your source code is completely public and auditable fo
 
 To use the NM-SA licence for your own software project, follow these simple steps:
 
-1. Copy the raw text from the [template file](https://github.com/RaidenCorporation/NM-SA-licence/blob/main/LICENCE-TEMPLATE.md?plain=1) in this repository.
-2. Create a new file named `LICENCE.md` (or `LICENSE.md`) in the root directory of your project.
+1. Copy the raw text from the [template file](https://github.com/RaidenCorporation/NM-SA/blob/main/LICENCE-TEMPLATE.md?plain=1) in this repository.
+2. Create a new file named `LICENCE.md` (or `LICENSE.md` for Americans) in the root directory of your project.
 3. Paste the text and fill in the bracketed placeholders, such as:
 ```markdown
 [Brand]
